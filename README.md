@@ -12,15 +12,25 @@ We divided the Twitter-2015 and Twitter-2017 datasets into three parts: training
 We set an image id for each picture, and we put this image id in the begging of a tweet. Here's an example of a tweet data.
 
 IMGID:16_05_28_482
+
 LeBron B-PER 
+
 James I-PER
+
 Comments O 
+
 on O 
+
 Reaching O
+
 6 O
+
 th O 
+
 Straight O
+
 NBA B-ORG
+
 Finals O
 
 
