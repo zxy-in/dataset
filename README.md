@@ -8,7 +8,6 @@ https://pan.baidu.com/s/1bGu8H7B1uR74qYZ4OkfX7Q?pwd=arwu
 ## Dataset statistics
 We divided the Twitter-2015 and Twitter-2017 datasets into three parts: training set, development set, and validation set. These two Twitter datasets contain a large number of tweets and rich image information, and are widely used in natural language processing and social media analysis. The following are statistical information tables for two datasets.
 
-![图片](https://github.com/zxy-in/dataset/assets/67194202/f6c8a192-a118-4bad-b6d9-8508d375cd49)
 
 
 ## Data Format
